@@ -2,7 +2,7 @@
 
 A 3mm MDF static test stand for 24mm D-class rocket motors, designed as a 1-week rapid-prototype project.
 
-![IMG_8441.jpg](IMG_8441.jpg)
+![IMG_8441.jpg](Final_Assembled 5.jpeg)
 
 ## 1. Project Goal
 To design and build a complete system that hits four criteria:
